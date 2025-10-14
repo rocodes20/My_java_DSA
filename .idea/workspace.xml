@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="082c935b-d9b7-421f-b74e-e10998f68f97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aboutme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/butterfly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/floydtri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/halfpyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hollowrect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertedpyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertedritriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numpyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printchar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/righttriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidrhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linearseach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reversearray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloworld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +43,7 @@
     "Application.MyInfo.executor": "Run",
     "Application.OddEven.executor": "Run",
     "Application.Switch.executor": "Run",
+    "Application.arrays.executor": "Run",
     "Application.butterfly.executor": "Run",
     "Application.diamond.executor": "Run",
     "Application.floydtri.executor": "Run",
