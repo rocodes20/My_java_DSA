@@ -1,26 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="082c935b-d9b7-421f-b74e-e10998f68f97" name="Changes" comment="" />
+    <list default="true" id="082c935b-d9b7-421f-b74e-e10998f68f97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aboutme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/butterfly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/floydtri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/halfpyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hollowrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertedpyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invertedritriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numpyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printchar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/righttriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solidrhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloworld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="33YZ9KNtMqLpbYvVUXurFfSH02u" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.MyInfo.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.butterfly.executor": "Run",
+    "Application.diamond.executor": "Run",
+    "Application.floydtri.executor": "Run",
+    "Application.halfpyramid.executor": "Run",
+    "Application.helloworld.executor": "Run",
+    "Application.hollowrect.executor": "Run",
+    "Application.invertedpyramid.executor": "Run",
+    "Application.invertedritriangle.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.numpyramid.executor": "Run",
+    "Application.printchar.executor": "Run",
+    "Application.righttriangle.executor": "Run",
+    "Application.solidrhombus.executor": "Run",
+    "Application.swap.executor": "Run",
+    "Application.triangle01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
